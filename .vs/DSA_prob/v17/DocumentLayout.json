@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\basic\\amstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\basic\\amstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\basic\\gcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\basic\\gcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\basic\\checkpalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\basic\\checkpalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Amstrong.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\Amstrong.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Basic\\Amstrong.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\Amstrong.cs",
+              "RelativeToolTip": "DSA_prob\\Basic\\Amstrong.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:13:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gcd.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\gcd.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Basic\\gcd.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\gcd.cs",
+              "RelativeToolTip": "DSA_prob\\Basic\\gcd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:10:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "checkPalindrome.cs",
               "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\checkPalindrome.cs",
               "RelativeDocumentMoniker": "DSA_prob\\Basic\\checkPalindrome.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "reverseNum.cs",
               "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\reverseNum.cs",
               "RelativeDocumentMoniker": "DSA_prob\\Basic\\reverseNum.cs",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "DSA_prob\\Basic\\reverseNum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:23:36.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:23:36.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "countDigit.cs",
               "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\countDigit.cs",
               "RelativeDocumentMoniker": "DSA_prob\\Basic\\countDigit.cs",
