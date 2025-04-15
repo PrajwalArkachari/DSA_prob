@@ -1,0 +1,14 @@
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\bin\Debug\net8.0\DSA_prob.exe
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\bin\Debug\net8.0\DSA_prob.deps.json
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\bin\Debug\net8.0\DSA_prob.runtimeconfig.json
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\bin\Debug\net8.0\DSA_prob.dll
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\bin\Debug\net8.0\DSA_prob.pdb
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.AssemblyInfoInputs.cache
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.AssemblyInfo.cs
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.csproj.CoreCompileInputs.cache
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.dll
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\refint\DSA_prob.dll
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.pdb
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.genruntimeconfig.cache
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\ref\DSA_prob.dll
