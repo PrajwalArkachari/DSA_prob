@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\basic\\countdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\basic\\countdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "countDigit.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\countDigit.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Basic\\countDigit.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Basic\\countDigit.cs",
+              "RelativeToolTip": "DSA_prob\\Basic\\countDigit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:44:29.163Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "DSA_prob\\Program.cs",
               "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Program.cs",
               "RelativeToolTip": "DSA_prob\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T05:18:31.254Z",
               "EditorCaption": ""

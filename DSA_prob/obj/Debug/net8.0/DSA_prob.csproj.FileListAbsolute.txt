@@ -12,3 +12,4 @@ C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\refint\DSA_
 C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.pdb
 C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.genruntimeconfig.cache
 C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\ref\DSA_prob.dll
+C:\Users\Scita-pc-40\source\repos\DSA_prob\DSA_prob\obj\Debug\net8.0\DSA_prob.sourcelink.json
