@@ -6,22 +6,23 @@
 
 //namespace DSA_prob.Basic
 //{
-//    internal class sum1stNnum
+//    internal class firstNFactorial
 //    {
 //        static void Main(string[] args)
 //        {
 //            int n = int.Parse(Console.ReadLine());
-//            Console.WriteLine(sumOfN(n));
+//            Console.WriteLine( Nfactorial(n));
 //        }
-        
-//        static int sumOfN(int n)
+
+//        static int Nfactorial(int n)
 //        {
-//            int sum = 0;
-//            for (int i=0;i<=n;i++)
+//            int fact = 1;
+//            for (int i = 1; i <= n; i++)
 //            {
-//                sum += i;
+//                fact *= i;
 //            }
-//            return sum;
+//            return fact;
 //        }
+
 //    }
 //}
