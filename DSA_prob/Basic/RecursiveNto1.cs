@@ -6,22 +6,21 @@
 
 //namespace DSA_prob.Basic
 //{
-//    internal class Recursive1toN
+//    internal class RecursiveNto1
 //    {
 //        static void Main(string[] args)
 //        {
 //            int n = int.Parse(Console.ReadLine());
-//            printN(1,n);
+//            printN(n);
 //        }
-//        static void printN(int i,int n)
+//        static void printN(int n)
 //        {
-//            if(i > n)
+//            if(n == 0)
 //            {
 //                return;
 //            }
-//            Console.WriteLine(i);
-//            printN(i+1,n);
-
+//            Console.WriteLine(n);
+//            printN(n-1);
 //        }
 //    }
 //}
