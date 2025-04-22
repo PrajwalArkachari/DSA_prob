@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA_prob")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026491f3f04d0442658c83edfeffbabc848fc57b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70068b657f47ead66a255a8eb52a813a75ec110e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA_prob")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA_prob")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
