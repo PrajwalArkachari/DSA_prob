@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\longestsubarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\longestsubarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\maxconsiquitiveele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\maxconsiquitiveele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\largeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\largeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\leftrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\leftrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\movezerotoend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\movezerotoend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\secondlargeele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\secondlargeele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\sortedrotated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\sortedrotated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|c:\\users\\scita-pc-40\\source\\repos\\dsa_prob\\dsa_prob\\array\\easy\\union.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE13A03-32F0-4F29-9313-9A94CFD39CC0}|DSA_prob\\DSA_prob.csproj|solutionrelative:dsa_prob\\array\\easy\\union.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "longestSubarray.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\longestSubarray.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\longestSubarray.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\longestSubarray.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\longestSubarray.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:24:11.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maxConsiquitiveEle.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\maxConsiquitiveEle.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\maxConsiquitiveEle.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\maxConsiquitiveEle.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\maxConsiquitiveEle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:54:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LargeElement.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\LargeElement.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\LargeElement.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\LargeElement.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\LargeElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:49:43.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "leftRotate.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\leftRotate.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\leftRotate.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\leftRotate.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\leftRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:19:52.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "missingNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\missingNumber.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\missingNumber.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\missingNumber.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\missingNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:25:18.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "moveZeroToEnd.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\moveZeroToEnd.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\moveZeroToEnd.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\moveZeroToEnd.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\moveZeroToEnd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:25:18.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "removeDuplicates.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\removeDuplicates.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\removeDuplicates.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\removeDuplicates.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\removeDuplicates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:25:17.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecondLargeEle.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\SecondLargeEle.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\SecondLargeEle.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\SecondLargeEle.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\SecondLargeEle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:25:16.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sortedRotated.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\sortedRotated.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\sortedRotated.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\sortedRotated.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\sortedRotated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:25:15.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "union.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\union.cs",
+              "RelativeDocumentMoniker": "DSA_prob\\Array\\Easy\\union.cs",
+              "ToolTip": "C:\\Users\\Scita-pc-40\\source\\repos\\DSA_prob\\DSA_prob\\Array\\Easy\\union.cs",
+              "RelativeToolTip": "DSA_prob\\Array\\Easy\\union.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:25:14.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
